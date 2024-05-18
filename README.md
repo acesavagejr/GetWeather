@@ -16,3 +16,10 @@ and to print the results
 ``` print(WeatherPlug.humidity) ```
 ``` print(WeatherPlug.wind) ```
 ``` print(WeatherPlug.desc) ```
+
+## Building WeatherPlug
+First,Download the source code (python scripts) and open your terminal.
+Second, type ``` pip install setuptools wheel twine ```
+Then type ``` python setup.py sdist bdist_wheel ```.
+After that type ``` pip install dist/GetWeather-[Version]-py3-none-any.whl ``` Make sure to replace "version" with the version number of the source code
+The once its installed you have now builed WeatherPlug!
