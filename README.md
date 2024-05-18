@@ -16,8 +16,11 @@ Now to request weather type
 
 and to print the results
 ``` print(WeatherPlug.temp) ```
+
 ``` print(WeatherPlug.humidity) ```
+
 ``` print(WeatherPlug.wind) ```
+
 ``` print(WeatherPlug.desc) ```
 
 ## Building WeatherPlug
