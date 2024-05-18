@@ -1,1 +1,1 @@
-from .main import GetWeather
+from .Main import WeatherPlug
