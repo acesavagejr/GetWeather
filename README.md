@@ -8,5 +8,4 @@ To install type ``` pip install GetWeather ```
 to use GetWeather make a python file and start it with this
 ``` import GetWeather ```
 after that type
-``` Import GetWeather 
-Getweather(city) ```
+``` Getweather(city) ```
